@@ -39,10 +39,7 @@ main {
     border: 1px solid #ddd;
     box-shadow: 0 0 10px wheat;
     background-color: black;
-    height: 400px;
-    overflow: scroll;
   
-    width: auto;
 }
 h2{
     text-align: center;
@@ -50,11 +47,9 @@ h2{
    
 }
 .profile{
-    background-image: url(Untitled.jpeg);
-    background-size: 100% 100%;
+   
     color: azure;
-    width: auto;
-    overflow: scroll;
+   
   
 }
 .profile p{
