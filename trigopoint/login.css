@@ -1,0 +1,67 @@
+.heading {
+    color: beige;
+    font-size: 2vw;
+    font-family: cursive;
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: azure;   
+    font-size: 3vw;
+    font-family: cursive;
+}
+.navbar{
+    display: grid;
+    background-color: blueviolet;
+    grid-template-columns: auto auto auto auto auto;
+}
+.item{
+    background-color: blueviolet;
+    
+    text-align: center;
+}
+.item a{
+    text-decoration: none;
+    color: aliceblue;   
+}
+ form {
+    display: grid;
+    grid-template-columns: 20vw 30vw;
+    
+}
+form label{
+    color: beige; 
+}
+form button{
+    background-color: aquamarine;
+    color: black;
+    font-family: cursive;
+
+}
+form input{
+    background-color: aqua;
+    height: 3vw;
+    font-size: 2vw;
+    font-family: cursive;
+    text-align: center;
+    
+
+}
+.userhelp li a {
+    color: aliceblue;
+    font-size: 2vw;
+    text-decoration: none;
+    height: 2vw;
+    
+}
+.userhelp li{
+    text-align: right;
+}
+.terms li{
+    font-size: 1vw;
+    list-style: none;
+    }
+    .terms li a{
+        font-size: 1vw;
+    }
+    

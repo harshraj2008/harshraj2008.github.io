@@ -1,0 +1,83 @@
+.heading {
+    color: beige;
+    font-size: 2vw;
+    font-family: cursive;
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: azure;   
+    font-size: 3vw;
+    font-family: cursive;
+}
+.navbar{
+    display: grid;
+    
+    grid-template-columns: auto auto auto auto auto;
+
+}
+.item1{
+    background-color: blueviolet;
+    border: 1px wheat;
+    
+    text-align: center;
+}
+.item1 a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.heading1{
+    margin: 0vw;
+    padding: 0vw;
+    border: 0vw;
+}
+.personal{
+display: grid;
+grid-template-columns: auto auto;
+}
+select{
+    background-color: aqua;
+}
+ option{
+    font-size: 2vw;
+    font-family: cursive;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 30vw 50vw;
+    
+}
+form label{
+    color: beige; 
+}
+form button{
+    background-color: aquamarine;
+    color: black;
+    font-family: cursive;
+    
+   
+
+}
+form input{
+    background-color: aqua;
+    height: 3vw;
+    font-size: 2vw;
+    font-family: cursive;
+    text-align: center;
+
+}
+
+
+.userhelp li{
+    text-align: right;
+    font-size: 2vw;
+    list-style: none; 
+}
+.terms li{
+font-size: 1vw;
+list-style: none;
+}
+.terms li a{
+    font-size: 1vw;
+}

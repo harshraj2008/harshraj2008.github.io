@@ -1,0 +1,65 @@
+body{
+    background-image: url(education.jpg);
+    background-size: 100% 100%;
+    padding: 50px;
+    background-position: center;
+    color: aliceblue;
+    font-size: 3vw;
+
+
+   
+}
+.header{
+    font-size: 3vw;
+    font-family: cursive;
+    color: burlywood;
+}
+.heading{
+    color: chartreuse;
+    font-size: 3vw;
+    font-family: cursive;
+
+}
+.s1{
+    color: aqua;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.s2{
+    color: aqua;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.s3{
+    color: aqua;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.s4{
+    color: aqua;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.s5{
+    color: blue;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.s6{
+    color: blue;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.s8{
+    color: blue;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.s9{
+    color: blue;
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.s10{
+    color: blue;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}.s11{
+    color: blue;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

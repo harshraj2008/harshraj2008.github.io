@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: azure;   
+    font-size: 2vw;
+    font-family: cursive;
+}
+.heading {
+    color: beige;
+    font-size: 2vw;
+    font-family: cursive;
+    text-align: center;
+}
+.navbar{
+    display: grid;
+    
+    grid-template-columns: auto auto auto auto auto;
+
+}
+.item{
+    background-color: blueviolet;
+    text-align: center;
+}
+.item a{
+    text-decoration: none;
+    color: aliceblue;   
+}
+table{
+    border: 2px wheat;
+    padding: 10px;
+    margin: 10px;
+    height: 50vw ;
+    width: auto;
+}
+table th{
+    font-size: 3vw;
+    border: 2px solid red;
+}
+table tr td{
+    border: 2px solid wheat;
+}
+table tr li{
+    list-style: none;
+}
