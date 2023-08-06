@@ -77,15 +77,7 @@ h2{
     background-size: 100% 100%;
     color: rgb(28, 90, 141);
 }
-.skills ul {
-    background-image: url(https://iihtng.com/wp-content/uploads/2020/01/Programming-Language.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-}
-.skills .electronics{
-    background-image: url(https://w7.pngwing.com/pngs/15/1016/png-transparent-laptop-motherboard-electronic-circuit-printed-circuit-board-asus-electric-razor-blue-electronics-computer-thumbnail.png);
-    background-size: 100% 100%;
-}
+
  section  li {
     list-style: none;
     font-size: 2vw;
